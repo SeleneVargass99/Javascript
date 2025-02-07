@@ -1,7 +1,7 @@
 // Tipo de luz = verde, amarillo y rojo 
 // condicionales (Siga, detente, ALto )
 
-let tipoDeLuz = "amarilla";
+let tipoDeLuz = "verde";
 
 if (tipoDeLuz === "verde"){
     console.log("si la luz es verde, siga adelante.")
